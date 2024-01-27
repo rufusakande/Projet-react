@@ -1,0 +1,55 @@
+/*
+*{
+    background-color: aqua;
+}
+
+#compteur{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+}
+
+#compteur button{
+    padding: 10px;
+    font-size: 24px;
+}
+
+#compteur p.erreur{
+    color: rgb(177, 67, 67);
+}
+*/
+
+.navbar{
+    color: blue;
+}
+.post{
+    background-color: blue;
+    width: 500px;
+    display: flex;
+    color: white;
+    margin-top: 5px;
+}
+.postliker{
+    background-color: rgb(20, 20, 34);
+    width: 500px;
+    display: flex;
+    color: white;
+    margin-top: 5px;
+}
+
+.likebtn{
+    border: solid 1px white;
+    background-color: brown;
+    margin: 10px;
+    padding: 5px;
+}
+
+.deletebtn{
+    border: solid 1px white;
+    background-color: rgb(42, 165, 155);
+    margin: 10px;
+    padding: 5px;
+}
