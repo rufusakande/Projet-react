@@ -11,7 +11,11 @@ const rout=createBrowserRouter([
     },
     {
         path:"apropos",
-        element:<Link to="/">Retour</Link>
+        element:<>
+        <h1>A propos</h1>
+        <p>Voici un autre composant apropos</p>
+        <Link to="/">Retour</Link>
+        </>
                
     }
 ])
